@@ -1,0 +1,3 @@
+# El simulador solo usa la biblioteca estándar de Python (tkinter, base64, zlib, re).
+# Pillow solo es necesario para el modo automático de capturas (--capturas).
+pillow>=10.0
